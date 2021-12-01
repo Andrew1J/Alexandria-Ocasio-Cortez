@@ -1,2 +1,1 @@
-# Alexandria-Ocasio-Cortez
-AoC
+# AoC
